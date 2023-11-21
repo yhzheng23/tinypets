@@ -1,8 +1,8 @@
 ---
-title: Minimal JS Image Classifiers
+title: Minimal JS Image Classifiers, revised for ModelScope.cn
 ---
 
-- [Single file](1single.html)
+- [Single file for modelscope.cn](1single.html)
 - [Multi-file](2multi.html)
 - [Parallel](3parallel.html)
 
